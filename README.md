@@ -16,5 +16,15 @@ Finalista de Tecnologias de Comunicação Multimédia com foco no desenvolviment
 
 ---
 
+## 🚀 Projetos em Destaque
+
+| Categoria | Projeto | Descrição Técnica |
+| :--- | :--- | :--- |
+| 🧊 **3D** | [Quarto](./Modelacao-3D) | Portfólio de modelação no 3ds Max. |
+| 🔊 **Áudio** | [Sound Design & Audio CV](./Sound-Design) | Portfólio de sonoplastia e currículo em formato áudio. |
+| 💻 **Fotografia** | [Fotografias](./Fotografia) | Portfólio de fotografia |
+
+---
+
 ### 📫 Como me encontrar
 - **Email:** rspsevivas@gmail.com
