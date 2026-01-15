@@ -16,10 +16,5 @@ Finalista de Tecnologias de Comunicação Multimédia com foco no desenvolviment
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do Rodrigo](https://github-readme-stats.vercel.app/api?username=PedraLG&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Como me encontrar
 - **Email:** rspsevivas@gmail.com
