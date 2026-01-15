@@ -20,9 +20,9 @@ Finalista de Tecnologias de Comunicação Multimédia com foco no desenvolviment
 
 | Categoria | Projeto | Descrição Técnica |
 | :--- | :--- | :--- |
-| 🧊 **3D** | [Quarto](./Modelacao-3D) | Portfólio de modelação no 3ds Max. |
-| 🔊 **Áudio** | [Sound Design & Audio CV](./Sound-Design) | Portfólio de sonoplastia e currículo em formato áudio. |
-| 💻 **Fotografia** | [Fotografias](./Fotografia) | Portfólio de fotografia |
+| 🧊 **3D** | [Quarto](https://github.com/PedraLG/Modelacao-3D) | Portfólio de modelação no 3ds Max. |
+| 🔊 **Áudio** | [[Sound Design & Audio CV](https://github.com/PedraLG/Sound-Design) | Portfólio de sonoplastia e currículo em formato áudio. |
+| 💻 **Fotografia** | [Fotografias](https://github.com/PedraLG/Fotografia) | Portfólio de fotografia |
 
 ---
 
