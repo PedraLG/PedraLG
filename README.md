@@ -28,5 +28,5 @@ Finalista de Tecnologias de Comunicação Multimédia com foco no desenvolviment
 
 ---
 
-### 📫 Como me encontrar
+### Como me encontrar
 - **Email:** rspsevivas@gmail.com
