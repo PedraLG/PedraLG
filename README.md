@@ -8,7 +8,7 @@ Finalista de Tecnologias de Comunicação Multimédia com foco no desenvolviment
 
 **Principais (O meu foco)**
 - **3D:** 3ds Max
-- **Dev:** VS Code
+- **Programção:** VS Code
 - **Som:** Audition
 - **Imagem:** Fotografia Digital
 
